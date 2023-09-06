@@ -77,6 +77,14 @@ module.exports = {
 }
 ```
 
+Fill in input.css
+
+```css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
+
 Test out the script by running it from the IDE and seeing the `output.css` file created alongside `input.css`. 
 
 ### Controller
